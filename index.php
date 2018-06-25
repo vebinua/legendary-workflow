@@ -1,4 +1,3 @@
 <?php
 
-echo 'hello world!';
-echo 'this one is a hotfix!';
+echo 'hello world! this is the master index file';
