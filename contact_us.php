@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<form action="" method="post">
+<form action="" method="get">
   
 </form>
 
