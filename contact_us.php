@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<form action="" method="get">
+<form action="index.php" method="get">
   
 </form>
 
